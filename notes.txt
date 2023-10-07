@@ -1,0 +1,3 @@
+- Will need to eventually auth everything
+
+- Looks like the phone component is locked to the left side of the screen. Need that data to be stored and held in atoms. Probably don't need routes until we integrate logins since this is sort of a dashboard. Will just need to see how intensive having 2 rendered components at once is.

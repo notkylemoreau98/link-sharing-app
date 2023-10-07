@@ -1,0 +1,24 @@
+Features Needed:
+
+First Draft: 
+- Recoil
+- Input UI
+- Header
+- Tests
+- React Router (Maybe)
+
+Second Draft:
+- Auth
+- Database Connection
+- Drag and drop
+
+
+Tech:
+- Mongo Database
+- Tailwind 
+- Recoil
+
+
+Completed 
+- Created React App
+- Installed Tailwind
